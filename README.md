@@ -63,6 +63,7 @@ The model is trained using the preprocessed text data. The training process incl
 ## Results
 
 After training, the model's performance can be evaluated using various metrics such as accuracy, precision, recall, and F1-score. The class distribution of the dataset is also visualized using a pie chart to understand the balance of sentiment classes.
-Contributing
+
+## Contributing
 
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
