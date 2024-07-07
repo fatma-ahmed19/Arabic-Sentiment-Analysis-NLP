@@ -1,4 +1,4 @@
-# Sentiment Analysis of Arabic Social Media Content
+# Sentiment Analysis of Arabic Reviews 
 This repository contains the implementation of a deep learning model to perform sentiment analysis on Arabic social media content. The project aims to classify the sentiment of text data into positive, negative, and neutral categories using Long Short-Term Memory (LSTM) neural networks.
 
 # Features
